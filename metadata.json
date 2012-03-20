@@ -1,0 +1,13 @@
+{
+  "name": "sidekiq",
+  "description": "Sidekiq recipe for EY Cloud",
+  "long_description": "",
+  "license": "MIT",
+  "maintainer": "Dr Nic Williams",
+  "maintainer_email": "drnicwilliams@gmail.com",
+  "version": "0.1.0",
+  "attributes": {
+  },
+  "dependencies": {
+  }
+}
