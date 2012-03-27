@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
 
-version = "0.1.0" # TODO get from metadata.json or .rb
+version = "0.2.0" # TODO get from metadata.json or .rb
 
 Gem::Specification.new do |s|
   s.name        = "eycloud-recipe-sidekiq"
