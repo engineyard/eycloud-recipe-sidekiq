@@ -1,10 +1,14 @@
 # Sidekiq recipe for EY Cloud
 
-DESCRIPTION HERE
+Sidekiq is a Redis-backed Ruby library for creating background jobs, placing those jobs on multiple queues, and processing them later.
 
 ## Installation
 
-INSTALLATION HERE
+Add the following to `main/recipes/default.rb` in your cookbooks:
+
+```ruby
+require_recipe "sidekiq"
+```
 
 ## Contributing
 
